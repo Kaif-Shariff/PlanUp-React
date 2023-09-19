@@ -17,6 +17,8 @@
 - node
 - ChatGPT
 
-## Contribution
+## How to Use
 
-This project is open to contributions, and I'm eager to learn and improve as a frontend developer. If you have any suggestions, find a bug, or want to contribute, please feel free to open an issue or submit a pull request.
+1. Clone this repository to your local machine.
+2. Open the `/dist/index.html` file in your web browser.
+3. Start managing your tasks efficiently!
