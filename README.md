@@ -1,6 +1,6 @@
 # PlanUp
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](PlanUp.png)
 
 ## Features
 
