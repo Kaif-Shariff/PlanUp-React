@@ -14,6 +14,7 @@
 - CSS
 - JavaScript
 - Tailwind
+- Figma
 - node
 - ChatGPT
 
