@@ -2,6 +2,8 @@
 
 ![Website Screenshot](PlanUp.png)
 
+*If the media doesn't load, please wait a moment and try refreshing the page.*
+
 ## Features
 
 - **Dark & Light Mode:** Enjoy a visually pleasing experience with both dark and light themes.
