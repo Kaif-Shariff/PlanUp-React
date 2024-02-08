@@ -15,7 +15,6 @@
 - JavaScript
 - Tailwind
 - Figma
-- node
 - ChatGPT
 
 ## How to Use
