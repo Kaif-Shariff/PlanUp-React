@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom_gradient {
+  background: linear-gradient(
+    180deg,
+    #47004c -34.54%,
+    #a600b2 14.25%,
+    #fef0ff 160.79%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+::-webkit-scrollbar {
+  width: 8px; /* Adjust as needed */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* Adjust as needed */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ee07ff; /* Adjust as needed */
+  border-radius: 6px; /* Adjust as needed */
+}
